@@ -1,0 +1,15 @@
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\bin\Debug\netcoreapp2.1\CatterPillerDevelopement.deps.json
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\bin\Debug\netcoreapp2.1\CatterPillerDevelopement.runtimeconfig.json
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\bin\Debug\netcoreapp2.1\CatterPillerDevelopement.runtimeconfig.dev.json
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\bin\Debug\netcoreapp2.1\CatterPillerDevelopement.dll
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\bin\Debug\netcoreapp2.1\CatterPillerDevelopement.pdb
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\obj\Debug\netcoreapp2.1\CatterPillerDevelopement.csprojAssemblyReference.cache
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\obj\Debug\netcoreapp2.1\CatterPillerDevelopement.csproj.CoreCompileInputs.cache
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\obj\Debug\netcoreapp2.1\CatterPillerDevelopement.RazorAssemblyInfo.cache
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\obj\Debug\netcoreapp2.1\CatterPillerDevelopement.RazorAssemblyInfo.cs
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\obj\Debug\netcoreapp2.1\CatterPillerDevelopement.AssemblyInfoInputs.cache
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\obj\Debug\netcoreapp2.1\CatterPillerDevelopement.AssemblyInfo.cs
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\obj\Debug\netcoreapp2.1\CatterPillerDevelopement.RazorTargetAssemblyInfo.cache
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\obj\Debug\netcoreapp2.1\CatterPillerDevelopement.dll
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\obj\Debug\netcoreapp2.1\CatterPillerDevelopement.pdb
+C:\Users\HMSPL\source\repos\CatterPillerDevelopement\CatterPillerDevelopement\bin\Debug\netcoreapp2.1\CatterPillerDevelopement.xml
